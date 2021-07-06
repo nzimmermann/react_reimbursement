@@ -1,0 +1,39 @@
+
+
+#login-card {
+    position: relative;
+    /* display: block; */
+    min-block-size: 500px;
+}
+
+.register-form {
+    position: relative;
+    min-height: 50;
+    max-height: 90vh;
+}
+
+.form-row {
+    height: 65px;
+    padding: 1rem;
+}
+
+#submit-btn {
+    align-content: center;
+}
+
+.form-label {
+    position: relative;
+}
+
+.login-text {
+    padding: 0rem;
+    margin:0rem;
+}
+
+#firstName {
+    padding-left: 0px;
+}
+
+#lastName {
+    padding-right: 0px;
+}

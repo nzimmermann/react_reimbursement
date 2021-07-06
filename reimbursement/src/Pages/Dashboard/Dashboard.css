@@ -1,0 +1,36 @@
+
+.emp-content {
+    margin-top: 5vmin;
+    display: block;
+    position: relative;
+    width: 80%;
+    height: 80vh;
+    background-color:rgba(145, 118, 45, 0.445);
+    flex-direction: column;
+}
+
+.table {
+    position: relative;
+    width: 100%;
+}
+
+.table-title {
+    padding: 5vmin;
+}
+
+.table-contents {
+    background-color: white;
+}
+
+/* .add-info {
+    border-color: lightcoral;
+} */
+
+.row-selected {
+    border-style: none;
+    background-color: powderblue;
+}
+
+.row-container {
+    background-color:rgba(121, 132, 133, 0.568);
+}
